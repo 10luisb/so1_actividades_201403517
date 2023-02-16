@@ -14,4 +14,4 @@ if [[ ! -d "/tmp/$(date +'%d-%m-%Y')" ]]
 then
 mkdir /tmp/$(date +"%d-%m-%Y")
 fi
-echo "Usuario: $github_user, Usuario ID: $github_id, Eres usuario github desde: $github_create_at." 
+echo "Hola: $github_user, User ID: $github_id, Cuenta fue creada el: $github_create_at." 
