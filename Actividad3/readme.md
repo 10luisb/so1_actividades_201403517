@@ -1,4 +1,4 @@
-Actividad 3
+#Actividad 3
 El problema surge por qué, las rutas en react se manejan con react-router, pero al usar un servidor nginx, este es el encargado de manejar las rutas .
 
 para la solucion se implento las siguientes lineas de código en el archivo de configuración de nginx.
