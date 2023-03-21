@@ -1,0 +1,10 @@
+[Unit]
+Description=Actividad 4 sistemas operativos
+
+[Service]
+ExecStart=/home/ry/actividad4.sh
+Restart=always
+IgnoreSIGPIPE=no
+
+[Install]
+Alias=saludo.service
