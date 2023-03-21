@@ -49,4 +49,4 @@ sudo systemctl start saludo_201403517.service
 sudo systemctl status  saludo_201403517.service    
 ```
 # SALIDA
-![salida de servicio](/imagenes/systemd.png)
+![salida de servicio](imagenes/systemd.png)
