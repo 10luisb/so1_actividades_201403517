@@ -41,3 +41,23 @@ se ejecutan y de sus hijos si tuviesen
 ![front](capturas/front2.png)
 ![front](capturas/front3.png)
 ![front](capturas/front4.png)
+
+## Servidor node.js
+
+![front](capturas/node.png)
+
+## Docker 
+se ultilizo docker para montar los servidores en y el frontend en las maquinas virtuales de gcp
+
+![front](capturas/docker1.png)
+
+![front](capturas/docker2.png)
+## Maquinas virtual GCP
+Intancias de maquinas virtuales usadas:
+![front](capturas/VM.png)
+## Cloud SQL
+Intancia de mysql cloud  usada para guardar la informacion
+![front](capturas/sql.png)
+
+
+
